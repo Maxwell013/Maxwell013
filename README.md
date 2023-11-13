@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Maxwell013
-- 👀 I’m interested in coding, health, and organization
-- 🌱 I’m currently learning to code in Python and C
+- 👀 I’m interested in coding, frontend and backend
+- 🌱 I’m currently learning to code in Python
