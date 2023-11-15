@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @Maxwell013
-- 👀 I’m interested in coding, frontend and backend
-- 🌱 I’m currently learning to code in Python
+##  Hi, I'm Maxwell
+I am a Student who likes programming.
+
+### Currently programming in:
+- Python
+### Learning:
+- C
+- HTML, CSS, javascript
