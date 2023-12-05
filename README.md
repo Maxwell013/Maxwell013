@@ -1,8 +1,8 @@
 ##  Hi, I'm Maxwell
-I am a Student who likes programming.
+I am a student who likes programming.
 
 ### Currently programming in:
 - Python
-### Learning:
+### And learning:
 - C
 - HTML, CSS, javascript
