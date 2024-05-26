@@ -1,8 +1,9 @@
-##  Hi, I'm Maxwell
-I am a student who likes programming.
+# Hi, I'm Maxwell! 👋
+I'm a French Canadian student passionate about software development, fluent in Python and C++.
 
-### Currently programming in:
-- Python
-### And learning:
-- C
-- HTML, CSS, javascript
+Welcome to my GitHub profile!
+
+## About Me
+- 🎓 Currently studying computer science at [Cegep de Trois-Rivières](https://www.cegeptr.qc.ca/)
+- 💻 Fluent in Python and C++
+- 🌐 Portfolio website: [Maxwell013.github.io](Maxwell013.github.io)
