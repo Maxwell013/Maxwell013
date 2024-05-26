@@ -4,6 +4,6 @@ I'm a French Canadian student passionate about software development, fluent in P
 Welcome to my GitHub profile!
 
 ## About Me
-- 🎓 Currently studying computer science at [Cegep de Trois-Rivières](https://www.cegeptr.qc.ca/)
+- 🎓 Currently studying mathematics and computer science at [Cegep de Trois-Rivières](https://www.cegeptr.qc.ca/)
 - 💻 Fluent in Python and C++
 - 🌐 Portfolio website: [Maxwell013.github.io](https://maxwell013.github.io)
